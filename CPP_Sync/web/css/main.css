@@ -1,0 +1,17 @@
+html,body{
+    height: 100%
+}
+
+.registerH1 {
+	position: relative;
+	left:80px;
+}
+
+.alert {
+	margin-top: 20px;
+}
+
+#messageModal{
+    display:none;
+}
+
