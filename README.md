@@ -1,5 +1,5 @@
 # CPP-Sync (Cal Poly Pomona Advanced Java Final Project) 
-##Java Web Application 
+##Java Full Stack Web Application 
 ##Programmed with: 
 1. Frontend 
 ⋅⋅* HTML5, CSS3, Javascript, Jquery, Bootstrap, JSP 
