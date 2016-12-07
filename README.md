@@ -1,5 +1,6 @@
 # CPP-Sync (Cal Poly Pomona Advanced Java Final Project) 
 ##Java Full Stack Web Application 
+###Team Members: Anderson Lam, Albert Chan, Zexing Jack Guo 
 ##Programmed with: 
 1. Frontend 
   * HTML5
